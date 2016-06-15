@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Una espada simple, nada mas.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Espada Simple","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":2},
+{"id":2,"animationId":6,"description":"Un hacha simple, nada mas.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Hacha Simple","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":4},
+{"id":3,"animationId":1,"description":"Un baston Simple, nada mas.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Baston Simple","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":6},
+{"id":4,"animationId":11,"description":"Un arco simple, nada mas.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Arco Simple","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":7}
+]
