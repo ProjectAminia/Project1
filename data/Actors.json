@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Cael_batallador","characterIndex":0,"characterName":"Cael","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Cael","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cael","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Cael_batallador","characterIndex":0,"characterName":"Cael","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Cael","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cael","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Nadia_Battle","characterIndex":0,"characterName":"Nadia","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Nadia","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Nadia","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
