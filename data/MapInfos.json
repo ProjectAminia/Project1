@@ -2,11 +2,11 @@
 null,
 {"id":1,"expanded":true,"name":"Yeiguut Town","order":5,"parentId":6,"scrollX":816,"scrollY":453},
 {"id":2,"expanded":true,"name":"Grandfather_House","order":7,"parentId":1,"scrollX":816,"scrollY":453},
-{"id":3,"expanded":true,"name":"Nadia_House","order":9,"parentId":1,"scrollX":816,"scrollY":453},
+{"id":3,"expanded":true,"name":"Nadia_House","order":9,"parentId":1,"scrollX":652.8,"scrollY":362.4},
 {"id":4,"expanded":true,"name":"Goods_Store","order":6,"parentId":1,"scrollX":816,"scrollY":453},
 {"id":5,"expanded":true,"name":"Grandfather_House_cutscene","order":2,"parentId":9,"scrollX":816,"scrollY":453},
 {"id":6,"expanded":true,"name":"Yeiguut","order":4,"parentId":0,"scrollX":816,"scrollY":453},
-{"id":7,"expanded":true,"name":"Abandoned_house","order":8,"parentId":1,"scrollX":816,"scrollY":453},
+{"id":7,"expanded":true,"name":"Abandoned_house","order":8,"parentId":1,"scrollX":652.8,"scrollY":362.4},
 {"id":8,"expanded":false,"name":"Yeiguut_Market","order":10,"parentId":6,"scrollX":808,"scrollY":507},
 {"id":9,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":816,"scrollY":453},
 {"id":10,"expanded":false,"name":"Dream","order":3,"parentId":9,"scrollX":816,"scrollY":453},
@@ -16,7 +16,7 @@ null,
 {"id":14,"expanded":true,"name":"1st_hab","order":14,"parentId":13,"scrollX":814,"scrollY":453},
 {"id":15,"expanded":true,"name":"2nd_hab","order":15,"parentId":13,"scrollX":814,"scrollY":453},
 {"id":16,"expanded":false,"name":"3th_hab","order":16,"parentId":13,"scrollX":819,"scrollY":453},
-{"id":17,"expanded":true,"name":"Xondor","order":18,"parentId":0,"scrollX":816,"scrollY":453},
+{"id":17,"expanded":true,"name":"Xondor","order":18,"parentId":0,"scrollX":652.8,"scrollY":362.4},
 {"id":18,"expanded":true,"name":"Yeiguut Cemetery","order":17,"parentId":6,"scrollX":816,"scrollY":453},
-{"id":19,"expanded":false,"name":"Xondor_1","order":19,"parentId":17,"scrollX":927,"scrollY":1475}
+{"id":19,"expanded":false,"name":"Xondor_1","order":19,"parentId":17,"scrollX":943,"scrollY":925}
 ]
